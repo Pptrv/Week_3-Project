@@ -3,7 +3,7 @@
 
 The hyptohesis for the project is the following:
 
-*Generating energy with renewable alternatives will decrease the energy market price* 
+*Generating energy with renewable alternatives decreases the energy market price* 
 
 In order to prove the hypothesis I will download a dataset from kaggle and call an API to unit both set of information to obtain the necessary data for our testing. 
 
